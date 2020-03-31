@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YelpClone/static/css/main.cf9d54d7.chunk.css",
+    "main.js": "/YelpClone/static/js/main.af02b852.chunk.js",
+    "main.js.map": "/YelpClone/static/js/main.af02b852.chunk.js.map",
+    "runtime-main.js": "/YelpClone/static/js/runtime-main.ff9f4933.js",
+    "runtime-main.js.map": "/YelpClone/static/js/runtime-main.ff9f4933.js.map",
+    "static/js/2.95616783.chunk.js": "/YelpClone/static/js/2.95616783.chunk.js",
+    "static/js/2.95616783.chunk.js.map": "/YelpClone/static/js/2.95616783.chunk.js.map",
+    "index.html": "/YelpClone/index.html",
+    "precache-manifest.31f04fe53bd4d3c6dcc0137a8d5eba8b.js": "/YelpClone/precache-manifest.31f04fe53bd4d3c6dcc0137a8d5eba8b.js",
+    "service-worker.js": "/YelpClone/service-worker.js",
+    "static/css/main.cf9d54d7.chunk.css.map": "/YelpClone/static/css/main.cf9d54d7.chunk.css.map",
+    "static/js/2.95616783.chunk.js.LICENSE.txt": "/YelpClone/static/js/2.95616783.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/YelpClone/static/media/small_background.dcdb1b62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff9f4933.js",
+    "static/js/2.95616783.chunk.js",
+    "static/css/main.cf9d54d7.chunk.css",
+    "static/js/main.af02b852.chunk.js"
+  ]
+}
